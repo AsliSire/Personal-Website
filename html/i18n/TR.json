@@ -1,0 +1,36 @@
+{
+  "home": "Ana Sayfa",
+  "about": "Hakkımda",
+  "service": "Servisler",
+  "portfolio": "Portfolyo",
+  "contact": "İletişim",
+  "language": "TR",
+
+  "header-text": "Merhaba, Ben",
+  "header-text-span": "Aslı Nazlı Şire",
+  "header-sub-text": "Günümüzde tüm sektörlerde işler sosyal kimlik ile daha kolay ve hızlı yürüyor. Dahası, eğer işletmenizin ismi web dünyasında varsa işletmeniz var demektir. Sizi ve işletmenizi web dünyasıyla tanıştırıp buradaki gerek müşteri potansiyeli olsun, gerek ulaşılabilirliğiniz olsun, avantajları yakalamanıza yardımcı olmak için buradayım.",
+  "more-info": "Daha Fazla Bilgi",
+  "download-cv": "Cv İndir",
+
+  "about-me": "Hakkımda",
+  "education": "EĞİTİMİM",
+  "education-description": "Çukurova Üniversitesi Bilgisayar Mühendisliği 2018 mezunuyum. Aynı bölümde yüksek lisans yapıyorum.",
+  "experience": "İŞ DENEYİMİM",
+  "experience-description": "During my graduation, I made websites, web projects and android software as a freelancer. I started working in the private sector and still continue.",
+
+  "details": "Detaylar",
+  "services-sub-title": "Servisler & Deneyim",
+  "services-item-1-caption": "Kullanıcı Arayüzü Tasarımı",
+  "services-item-1-description": "Unlike team chat apps, Flow is designed to help your team stay focused by keeping",
+  "services-item-2-caption": "Kullanıcı Deneyimi Tasarımı",
+  "services-item-2-description": "Unlike team chat apps, Flow is designed to help your team stay focused by keeping",
+  "services-item-3-caption": "Web Tasarımı",
+  "services-item-3-description": "Unlike team chat apps, Flow is designed to help your team stay focused by keeping",
+  "services-item-4-caption": "Web Geliştirme",
+  "services-item-4-description": "Unlike team chat apps, Flow is designed to help your team stay focused by keeping",
+
+  "contact-name": "Adınız",
+  "contact-mail": "E-postanız",
+  "contact-message": "Mesajınız",
+  "contact-send": "Gönder"
+}

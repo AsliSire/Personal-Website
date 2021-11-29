@@ -1,0 +1,38 @@
+{
+  "home": "Home",
+  "about": "About",
+  "service": "Services",
+  "portfolio": "Portfolio",
+  "contact": "Contact",
+  "language": "EN",
+
+  "header-text": "Hi, I'm",
+  "header-text-span": "Aslı Nazlı Şire",
+  "header-sub-text": "Today, in all sectors, things are easier and faster with social identity. Moreover, if your business has a name in the web world, you have a business. I am here to introduce you and your business to the web world and help you catch the advantages, be it customer potential or accessibility.",
+  "more-info": "More Information",
+  "download-cv": "Download Cv",
+
+  "about-me": "About Me",
+  "education": "MY EDUCATION",
+  "education-description": "I graduated from Çukurova University Computer Engineering 2018. I am doing a master's degree in the same department.",
+  "experience": "MY WORK EXPERIENCE",
+  "experience-description": "During my graduation, I made websites, web projects and android software as a freelancer. I started working in the private sector and still continue.",
+
+  "details": "Details",
+  "services-sub-title": "Services & Experience",
+  "services-item-1-caption": "UI Design",
+  "services-item-1-description": "Unlike team chat apps, Flow is designed to help your team stay focused by keeping",
+  "services-item-2-caption": "UX Design",
+  "services-item-2-description": "Unlike team chat apps, Flow is designed to help your team stay focused by keeping",
+  "services-item-3-caption": "Web Design",
+  "services-item-3-description": "Unlike team chat apps, Flow is designed to help your team stay focused by keeping",
+  "services-item-4-caption": "Web Developer",
+  "services-item-4-description": "Unlike team chat apps, Flow is designed to help your team stay focused by keeping",
+
+  "contact-name": "Your Name",
+  "contact-mail": "Your E-mail",
+  "contact-message": "Your Message",
+  "contact-send": "Send"
+
+
+}
